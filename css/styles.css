@@ -1,0 +1,183 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Clicker Script', cursive;
+  font-size: 7rem;
+  color: white;
+}
+
+h2 {
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  font-family: 'Clicker Script', cursive;
+  font-size: 6rem;
+  color: #c7004c;
+}
+
+h3 {
+  font-family: 'Eagle Lake', cursive;
+  font-size: 3.3rem;
+  color: #c7004c;
+  margin-bottom: 30px;
+}
+
+h4 {
+  font-family: 'Eagle Lake', cursive;
+  font-size: 1.3rem;
+  font-weight: normal;
+  color: #c7004c;
+  padding-bottom: 20px;
+  line-height: 2;
+}
+
+p {
+  margin: 0, 30px;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 1.5rem;
+  color: #8f1537;
+    line-height: 1.6;
+}
+
+hr {
+  visibility: hidden;
+  margin: 50px;
+}
+
+a {
+  color: #ffaaaa;
+  font-size: 1.2rem;
+  font-family: 'IBM Plex Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cdffeb;
+}
+
+.top-container {
+  background-color: #c7004c;
+  padding-top: 150px;
+}
+
+.bottom-container {
+  background-color: #c7004c;
+  padding: 20px 0 20px 0;
+}
+
+.footer {
+  font-size: 1rem;
+  color: white;
+  padding-top: 20px;
+}
+
+.photo {
+  border-radius: 50%;
+  border: 5px solid #c7004c;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.skills {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.contact-me {
+  text-align: center;
+}
+
+.table {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 150%;
+  color: #8f1537;
+  clear: right;
+}
+
+.white {
+  color: white;
+  margin: 0;
+  padding-bottom: 30px;
+}
+
+.btn {
+  background: #c7004c;
+  background-image: -webkit-linear-gradient(top, #c7004c, #8f1537);
+  background-image: -moz-linear-gradient(top, #c7004c, #8f1537);
+  background-image: -ms-linear-gradient(top, #c7004c, #8f1537);
+  background-image: -o-linear-gradient(top, #c7004c, #8f1537);
+  background-image: linear-gradient(to bottom, #c7004c, #8f1537);
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #f34573;
+  background-image: -webkit-linear-gradient(top, #f34573, #8f1537);
+  background-image: -moz-linear-gradient(top, #f34573, #8f1537);
+  background-image: -ms-linear-gradient(top, #f34573, #8f1537);
+  background-image: -o-linear-gradient(top, #f34573, #8f1537);
+  background-image: linear-gradient(to bottom, #f34573, #8f1537);
+  text-decoration: none;
+}
+
+#butterfly {
+  width: 200px;
+  padding-top: 40px;
+}
+
+#cloud {
+  width: 25%;
+  position: absolute;
+  left: 10%;
+  top: 3%;
+}
+
+#clouds {
+  width: 30%;
+  position: absolute;
+  right: 10%;
+  top: 10%;
+}
+
+#garden {
+  width: 65%;
+  position: relative;
+  bottom: 0;
+  margin-top: 80px;
+}
+
+#flower {
+  width: 380px;
+}
+
+#origami-1 {
+  width: 250px;
+  float: left;
+}
+
+#origami-2 {
+  width: 250px;
+  float: right;
+  margin-left: 20px;
+}
